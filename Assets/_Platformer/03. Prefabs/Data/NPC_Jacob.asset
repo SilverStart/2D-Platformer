@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b33eb2f29b40a4db57e7073efd4d32, type: 3}
+  m_Name: NPC_Jacob
+  m_EditorClassIdentifier: 
+  name: "\uC81C\uC774\uCF65 (Jacob)"
+  age: "76\uC138"
+  gender: "\uB0A8\uC131"
+  job: "\uD1F4\uC5ED\uBAA8\uD5D8\uAC00"
+  description: "\uB77C\uB5BC\uB294..."
+  icon: {fileID: 7963507245444735400, guid: ec10b46feb584e647b5bebf8b2c7afb2, type: 3}
